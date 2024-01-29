@@ -306,7 +306,7 @@
    <text:p text:style-name="P1">Test <text:span text:style-name="T1">2 </text:span><text:span text:style-name="T2">change document</text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P2">new example file <text:span text:style-name="T3">123123</text:span></text:p>
+   <text:p text:style-name="P2">new example file <text:span text:style-name="T3">{$123123123}</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
